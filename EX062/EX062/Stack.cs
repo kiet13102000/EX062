@@ -15,7 +15,7 @@ namespace EX062
             Buffer = new int[size];
         }
        
-        
+         
         public void Push(int a)
         {
           Buffer[top++] = a;
